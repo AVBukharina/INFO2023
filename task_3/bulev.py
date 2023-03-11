@@ -1,7 +1,7 @@
 import os
 import sys
 
-DDATA_PATH = 'C:/University/python/infopoisk/data'
+DATA_PATH = 'C:/University/python/infopoisk/data'
 TOKENS_PATH = 'C:/University/python/infopoisk/tokens'
 LEMMAS_PATH = 'C:/University/python/infopoisk/lemmas'
 WORDS_INDEX_PATH = 'C:/University/python/infopoisk/src/task3/words_index.txt'
